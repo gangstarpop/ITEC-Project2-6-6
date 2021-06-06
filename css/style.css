@@ -1,0 +1,35 @@
+.jumbotron {
+  background: url("https://steamuserimages-a.akamaihd.net/ugc/805426328316459255/1021DE0F4E61C72FD68A6CBD54F82104710D6C14/");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 15%;
+  min-height: 90vh;
+  background-attachment: fixed;
+  text-shadow: 1px 1px 1px black;
+  background-position: center;
+  background-color: #000;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+}
+
+button a {
+  color: white !important;
+}
+
+.card-container {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding : 10px;
+}
+
+body {
+  background: #eefbfb;
+  color: #00009f;
+}
+
+/* dark mode */
+
