@@ -5,30 +5,22 @@
     <!-- Section: Social media -->
     <section class="mb-4">
       <!-- Facebook -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i></a>
+      <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/hoangvunguyenbinh/" role="button"><i class="fab fa-facebook-f"></i></a>
 
       <!-- Twitter -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-twitter"></i></a>
-
-      <!-- Google -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-google"></i></a>
+      <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/VuBinh_" role="button"><i class="fab fa-twitter"></i></a>
 
       <!-- Instagram -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-instagram"></i></a>
-
-      <!-- Linkedin -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+      <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/la_iluvia/" role="button"><i class="fab fa-instagram"></i></a>
 
       <!-- Github -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-github"></i></a>
+      <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/gangstarpop/ITEC-Project2-6-6" role="button"><i class="fab fa-github"></i></a>
     </section>
     <!-- Section: Text -->
     <section class="mb-4">
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
-        repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
-        eum harum corrupti dicta, aliquam sequi voluptate quas.
-      </p>
+      <h2><p>
+       𝓗𝓮𝓵𝓵𝓸 𝓪𝓷𝓭 𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝔀𝓮𝓫𝓼𝓲𝓽𝓮. 𝓘 𝓱𝓸𝓹𝓮 𝔂𝓸𝓾 𝓰𝓾𝔂𝓼 𝓮𝓷𝓳𝓸𝔂 𝓲𝓽. 𝓗𝓕!
+      </p> </h2>
     </section>
     <!-- Section: Text -->
 
